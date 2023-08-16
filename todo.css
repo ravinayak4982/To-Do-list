@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.delete{
+    background-color: blueviolet;
+}
+.task{
+    background-color: darkgoldenrod;
+}
+h1{
+    text-align: center;
+    text-decoration:underline wavy;
+    margin-top: 20px 30px;
+}
+li{
+    align-items: center;
+}
